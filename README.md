@@ -1,2 +1,2 @@
-# siteTeste_v02
-site a mero de aprendizado
+# roboticaPratica
+Projeto para o site roboticaPratica.com
